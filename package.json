@@ -1,0 +1,46 @@
+{
+  "name": "alfred-gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "alfred",
+    "gitlab",
+    "workflow",
+    "afly"
+  ],
+  "private": true,
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "author": {
+    "name": "Asen Lekov",
+    "email": "asenlekoff@gmail.com",
+    "url": "https://lekov.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@gitbeaker/node": "^32.1.2",
+    "alfy": "^0.12.1"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L3K0V/alfred-gitlab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/L3K0V/alfred-gitlabissues"
+  },
+  "homepage": "https://github.com/L3K0V/alfred-gitlab#readme"
+}
