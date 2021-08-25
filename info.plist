@@ -8,6 +8,29 @@
 	<string>Internet</string>
 	<key>connections</key>
 	<dict>
+		<key>01D92EE0-680E-482C-AB6E-83C5EC8E8262</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A61F508C-EED0-43E9-90CA-3EB27724F43E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1FB9CA0C-323D-4ED5-ADF5-1E9D14B536BC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>05326F66-0795-42DF-86F4-63875B6BA91C</key>
 		<array>
 			<dict>
@@ -47,6 +70,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>1FB9CA0C-323D-4ED5-ADF5-1E9D14B536BC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>776B8439-6555-475B-9B11-CFBF98D81EE7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>21E08205-6D09-4ED8-B556-EF56020813C4</key>
 		<array>
 			<dict>
@@ -60,8 +96,115 @@
 				<false/>
 			</dict>
 		</array>
+		<key>2575D911-C07F-419E-861A-E1B3FE1D621E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>01D92EE0-680E-482C-AB6E-83C5EC8E8262</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>48F0C1F8-A11D-48CC-8F3E-EF4D55042D00</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>01D92EE0-680E-482C-AB6E-83C5EC8E8262</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>237FDAAB-2C70-4F33-BFCA-CBEED7132727</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>27319EA3-FCBD-4554-AE89-752E0D015982</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2575D911-C07F-419E-861A-E1B3FE1D621E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>FA7358C5-CEDC-4EAF-A5E2-B186167CA498</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2575D911-C07F-419E-861A-E1B3FE1D621E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>CCB81333-DA77-4500-93E9-18EA9FE31419</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4AE313F5-F174-4A4D-B692-33C36491F47B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>40CD2662-8E82-49F2-B3ED-1150AE6AC608</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A61F508C-EED0-43E9-90CA-3EB27724F43E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1FB9CA0C-323D-4ED5-ADF5-1E9D14B536BC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>4AE313F5-F174-4A4D-B692-33C36491F47B</key>
 		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 			<dict>
 				<key>destinationuid</key>
 				<string>AB8DF3CD-C265-4905-ACCE-A74253E647B7</string>
@@ -98,16 +241,6 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
 		</array>
 		<key>4D02EA08-B7E1-40A5-9525-6C739C3A0160</key>
 		<array>
@@ -126,11 +259,21 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>4AE313F5-F174-4A4D-B692-33C36491F47B</string>
+				<string>27319EA3-FCBD-4554-AE89-752E0D015982</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4AE313F5-F174-4A4D-B692-33C36491F47B</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Open url in selected browser</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -140,6 +283,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>1941B649-B66A-4019-BEC3-7B644E27244B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A61F508C-EED0-43E9-90CA-3EB27724F43E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>776B8439-6555-475B-9B11-CFBF98D81EE7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -189,6 +345,30 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
+				<string>40CD2662-8E82-49F2-B3ED-1150AE6AC608</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>825D708C-967B-44E9-9DCA-6772BF805DA8</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>40CD2662-8E82-49F2-B3ED-1150AE6AC608</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>2AA02FA0-3185-4EE1-AD89-66CAF8D18244</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>0FAB0037-ED3A-40D1-A146-A7AA07DF2393</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -214,11 +394,21 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
+				<string>2575D911-C07F-419E-861A-E1B3FE1D621E</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Open url in selected browser</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -296,7 +486,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>Check your pending GitLab todos</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -312,6 +502,55 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>issues</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Search for issue {var:name}</string>
+				<key>script</key>
+				<string>./node_modules/.bin/run-node issues.js "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Browse GitLab issues</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>A61F508C-EED0-43E9-90CA-3EB27724F43E</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -319,7 +558,7 @@
 				<key>fixedorder</key>
 				<false/>
 				<key>items</key>
-				<string>[{"title":"Activity","arg":"-\/activity","subtitle":"Group information"},{"title":"Labels","arg":"-\/labels","subtitle":"Group information"},{"title":"Members","arg":"-\/group_members","subtitle":"Group information"},{"title":"Epics","arg":"-\/epics"},{"title":"Epic boards","arg":"-\/epic_boards"},{"title":"Roadmap","arg":"-\/roadmap","subtitle":"Epics"},{"title":"Issues","arg":"-\/issues"},{"title":"Issue boards","arg":"-\/boards"},{"title":"Milestones","arg":"-\/milestones"},{"title":"Iterations","arg":"-\/iterations"},{"title":"Merge requests","arg":"-\/merge_requests"},{"title":"Audit events","arg":"-\/audit_events","subtitle":"Security &amp; Compliance"},{"title":"Package registry","arg":"-\/packages","subtitle":"Packages &amp; Registries"},{"title":"Container registries","arg":"-\/container_registries","subtitle":"Packages &amp; Registries"},{"title":"Dependency proxy","arg":"-\/dependency_proxy","subtitle":"Packages &amp; Registries"},{"title":"Analytics","arg":"-\/analytics\/value_stream_analytics","subtitle":"Value stream analytics"},{"title":"Contribution","arg":"-\/contribution_analytics","subtitle":"Analtytics"},{"title":"Issue analytics","arg":"-\/issues_analytics","subtitle":"Analytics"},{"title":"Repositories","arg":"-\/analytics\/repository_analytics","subtitle":"Analytics"},{"title":"Productivity","arg":"-\/analytics\/productivity_analytics","subtitle":"Analytics"}]</string>
+				<string>[{"title":"Activity","arg":"-\/activity","subtitle":"Group information"},{"title":"Labels","arg":"-\/labels","subtitle":"Group information"},{"title":"Members","arg":"-\/group_members","subtitle":"Group information"},{"title":"Epics","arg":"-\/epics","subtitle":"Browse ecpis for {var:name}"},{"title":"Epic boards","arg":"-\/epic_boards"},{"title":"Roadmap","arg":"-\/roadmap","subtitle":"Epics"},{"title":"Issues","arg":"-\/issues","subtitle":"Show issues for {var:name}"},{"title":"Issue boards","arg":"-\/boards","subtitle":"Browse issue boards of {var:name}"},{"title":"Milestones","arg":"-\/milestones","subtitle":"Browse milestones of {var:name}"},{"title":"Iterations","arg":"-\/iterations","subtitle":"Browse iterations of {var:name}"},{"title":"Merge requests","arg":"-\/merge_requests","subtitle":"Show merge requests for {var:name}"},{"title":"Audit events","arg":"-\/audit_events","subtitle":"Security &amp; Compliance"},{"title":"Package registry","arg":"-\/packages","subtitle":"Packages &amp; Registries"},{"title":"Container registries","arg":"-\/container_registries","subtitle":"Packages &amp; Registries"},{"title":"Dependency proxy","arg":"-\/dependency_proxy","subtitle":"Packages &amp; Registries"},{"title":"Analytics","arg":"-\/analytics\/value_stream_analytics","subtitle":"Value stream analytics"},{"title":"Contribution","arg":"-\/contribution_analytics","subtitle":"Analtytics"},{"title":"Issue analytics","arg":"-\/issues_analytics","subtitle":"Analytics"},{"title":"Repositories","arg":"-\/analytics\/repository_analytics","subtitle":"Analytics"},{"title":"Productivity","arg":"-\/analytics\/productivity_analytics","subtitle":"Analytics"}]</string>
 				<key>runningsubtext</key>
 				<string></string>
 				<key>subtext</key>
@@ -362,7 +601,7 @@
 				<key>queuemode</key>
 				<integer>2</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>Search for {query} group</string>
 				<key>script</key>
 				<string>./node_modules/.bin/run-node group.js "$1"</string>
 				<key>scriptargtype</key>
@@ -372,7 +611,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>Browse GitLab groups</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -404,6 +643,138 @@
 			<string>1941B649-B66A-4019-BEC3-7B644E27244B</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>776B8439-6555-475B-9B11-CFBF98D81EE7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>-/issues</string>
+						<key>outputlabel</key>
+						<string>issues</string>
+						<key>uid</key>
+						<string>237FDAAB-2C70-4F33-BFCA-CBEED7132727</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>-/merge_requests</string>
+						<key>outputlabel</key>
+						<string>merge requests</string>
+						<key>uid</key>
+						<string>48F0C1F8-A11D-48CC-8F3E-EF4D55042D00</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>2575D911-C07F-419E-861A-E1B3FE1D621E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>scope</key>
+					<string>all</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>01D92EE0-680E-482C-AB6E-83C5EC8E8262</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>mr</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Search for merge request {query}</string>
+				<key>script</key>
+				<string>./node_modules/.bin/run-node merge_requests.js "$1"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Browse GitLab merge requests</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>1FB9CA0C-323D-4ED5-ADF5-1E9D14B536BC</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -508,6 +879,26 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>scope</key>
+					<string>assigned_to_me</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>40CD2662-8E82-49F2-B3ED-1150AE6AC608</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -531,7 +922,7 @@
 				<key>queuemode</key>
 				<integer>2</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>Searching for {query}</string>
 				<key>script</key>
 				<string>./node_modules/.bin/run-node index.js "$1"</string>
 				<key>scriptargtype</key>
@@ -539,9 +930,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Update available: 1.0.0 → 1.0.3. Run `npm install -g alfred-gitlab`</string>
-				<key>title</key>
 				<string></string>
+				<key>title</key>
+				<string>Browse GitLab</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -580,7 +971,7 @@
 				<key>queuemode</key>
 				<integer>2</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>Search for {query} repo</string>
 				<key>script</key>
 				<string>./node_modules/.bin/run-node repo.js "$1"</string>
 				<key>scriptargtype</key>
@@ -590,7 +981,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>Browse GitLab repositories</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -602,6 +993,90 @@
 			<string>0FAB0037-ED3A-40D1-A146-A7AA07DF2393</string>
 			<key>version</key>
 			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>menu</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>-/issues</string>
+						<key>outputlabel</key>
+						<string>issues</string>
+						<key>uid</key>
+						<string>FA7358C5-CEDC-4EAF-A5E2-B186167CA498</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>-/merge_requests</string>
+						<key>outputlabel</key>
+						<string>merge requests</string>
+						<key>uid</key>
+						<string>CCB81333-DA77-4500-93E9-18EA9FE31419</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>27319EA3-FCBD-4554-AE89-752E0D015982</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>repo</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>ED81EE8A-A750-40F8-B8D6-62CBFBFDF311</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -691,7 +1166,7 @@
 				<key>fixedorder</key>
 				<false/>
 				<key>items</key>
-				<string>[{"title":"Activity","arg":"activity"},{"title":"Labels","arg":"-\/labels"},{"title":"Project members","arg":"-\/project_members"},{"title":"Files","arg":"files"},{"title":"Commits","arg":"commits"},{"title":"Branches","arg":"-\/branches"},{"title":"Tags","arg":"-\/tags"},{"title":"Issues","arg":"-\/issues"},{"title":"Boards","arg":"-\/boards","subtitle":"Issue boards"},{"title":"Milestones","arg":"-\/milestones"},{"title":"Iterations","arg":"-\/iterations"},{"title":"Merge requests","arg":"-\/merge_requests"},{"title":"Pipelines","arg":"-\/pipelines"},{"title":"Editor","arg":"-\/ci\/editor","subtitle":"Pipeline editor"},{"title":"Jobs","arg":"-\/jobs","subtitle":"Pipelines jobs"},{"title":"Schedules","arg":"-\/pipeline_schedules","subtitle":"Pipeline schedules"},{"title":"Audit events","arg":"-\/audit_events","subtitle":"Security &amp; Compliance"},{"title":"Configuration","arg":"-\/security\/configuration","subtitle":"Security &amp; Compliance"},{"title":"Feature flags","arg":"-\/feature_flags","subtitle":"Deployment"},{"title":"Environments","arg":"-\/environments","subtitle":"Deployment"},{"title":"Releases","arg":"-\/releases","subtitle":"Deployment"},{"title":"Metrics","arg":"-\/metrics","subtitle":"Monitor"},{"title":"Logs","arg":"-\/logs","subtitle":"Monitor"},{"title":"Error tracking","arg":"-\/error_tracking","subtitle":"Monitor"},{"title":"Alerts","arg":"-\/alert_management","subtitle":"Monitor"},{"title":"Incidents","arg":"-\/incidents","subtitle":"Monitor"},{"title":"Packages","arg":"-\/packages","subtitle":"Packages &amp; Registries"},{"title":"Container registry","arg":"\/container_registry","subtitle":"Packages &amp; Registries"},{"title":"Infrastructure registry","arg":"-\/infrastructure_registry","subtitle":"Packages &amp; Registries"},{"title":"Analytics","arg":"-\/value_stream_analytics","subtitle":"Value stream analytics"},{"title":"CI\/CD","arg":"-\/pipelines\/charts","subtitle":"Analyrics"},{"title":"Code review","arg":"-\/analytics\/code_reviews","subtitle":"Analytics"},{"title":"Issue analytics","arg":"-\/analytics\/issues_analytics","subtitle":"Analytics"},{"title":"Merge requests","arg":"-\/analytics\/merge_request_analytics","subtitle":"Analytics"},{"title":"Repository","arg":"repository-analytics","subtitle":"Analytics"},{"title":"Wiki","arg":"-\/wikis\/home"},{"title":"Snippets","arg":"-\/snippets"}]</string>
+				<string>[{"title":"Activity","arg":"activity"},{"title":"Labels","arg":"-\/labels","subtitle":"Browse labels of {var:full_name}"},{"title":"Project members","arg":"-\/project_members","subtitle":"Browse members of {var:full_name}"},{"title":"Files","arg":"files","subtitle":"Browse files of {var:full_name}"},{"title":"Commits","arg":"commits","subtitle":"Browse commits of {var:full_name}"},{"title":"Branches","arg":"-\/branches","subtitle":"Borse branches of {var:full_name}"},{"title":"Tags","arg":"-\/tags","subtitle":"Borse tags of {var:full_name}"},{"title":"Issues","arg":"-\/issues","subtitle":"Show issues for {var:full_name}"},{"title":"Boards","arg":"-\/boards","subtitle":"Issue boards"},{"title":"Milestones","arg":"-\/milestones"},{"title":"Iterations","arg":"-\/iterations"},{"title":"Merge requests","arg":"-\/merge_requests","subtitle":"Show merge requests for {var:full_name}"},{"title":"Pipelines","arg":"-\/pipelines"},{"title":"Editor","arg":"-\/ci\/editor","subtitle":"Pipeline editor"},{"title":"Jobs","arg":"-\/jobs","subtitle":"Pipelines jobs"},{"title":"Schedules","arg":"-\/pipeline_schedules","subtitle":"Pipeline schedules"},{"title":"Audit events","arg":"-\/audit_events","subtitle":"Security &amp; Compliance"},{"title":"Configuration","arg":"-\/security\/configuration","subtitle":"Security &amp; Compliance"},{"title":"Feature flags","arg":"-\/feature_flags","subtitle":"Deployment"},{"title":"Environments","arg":"-\/environments","subtitle":"Deployment"},{"title":"Releases","arg":"-\/releases","subtitle":"Deployment"},{"title":"Metrics","arg":"-\/metrics","subtitle":"Monitor"},{"title":"Logs","arg":"-\/logs","subtitle":"Monitor"},{"title":"Error tracking","arg":"-\/error_tracking","subtitle":"Monitor"},{"title":"Alerts","arg":"-\/alert_management","subtitle":"Monitor"},{"title":"Incidents","arg":"-\/incidents","subtitle":"Monitor"},{"title":"Packages","arg":"-\/packages","subtitle":"Packages &amp; Registries"},{"title":"Container registry","arg":"\/container_registry","subtitle":"Packages &amp; Registries"},{"title":"Infrastructure registry","arg":"-\/infrastructure_registry","subtitle":"Packages &amp; Registries"},{"title":"Analytics","arg":"-\/value_stream_analytics","subtitle":"Value stream analytics"},{"title":"CI\/CD","arg":"-\/pipelines\/charts","subtitle":"Analyrics"},{"title":"Code review","arg":"-\/analytics\/code_reviews","subtitle":"Analytics"},{"title":"Issue analytics","arg":"-\/analytics\/issues_analytics","subtitle":"Analytics"},{"title":"Merge requests","arg":"-\/analytics\/merge_request_analytics","subtitle":"Analytics"},{"title":"Repository","arg":"repository-analytics","subtitle":"Analytics"},{"title":"Wiki","arg":"-\/wikis\/home"},{"title":"Snippets","arg":"-\/snippets"}]</string>
 				<key>runningsubtext</key>
 				<string></string>
 				<key>subtext</key>
@@ -731,28 +1206,8 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict>
-					<key>repo</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>ED81EE8A-A750-40F8-B8D6-62CBFBFDF311</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>browser</key>
-				<string>com.brave.Browser</string>
+				<string></string>
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
@@ -787,135 +1242,164 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict>
-					<key>menu</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>05326F66-0795-42DF-86F4-63875B6BA91C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>01D92EE0-680E-482C-AB6E-83C5EC8E8262</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1640</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
 		<key>05326F66-0795-42DF-86F4-63875B6BA91C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1345</integer>
+			<integer>1585</integer>
 			<key>ypos</key>
-			<integer>585</integer>
+			<integer>560</integer>
 		</dict>
 		<key>0FAB0037-ED3A-40D1-A146-A7AA07DF2393</key>
 		<dict>
 			<key>xpos</key>
-			<integer>555</integer>
+			<integer>545</integer>
 			<key>ypos</key>
-			<integer>340</integer>
+			<integer>485</integer>
 		</dict>
 		<key>1941B649-B66A-4019-BEC3-7B644E27244B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>790</integer>
+			<integer>815</integer>
 			<key>ypos</key>
-			<integer>240</integer>
+			<integer>270</integer>
+		</dict>
+		<key>1FB9CA0C-323D-4ED5-ADF5-1E9D14B536BC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1815</integer>
+			<key>ypos</key>
+			<integer>360</integer>
 		</dict>
 		<key>21E08205-6D09-4ED8-B556-EF56020813C4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1340</integer>
+			<integer>1590</integer>
 			<key>ypos</key>
-			<integer>515</integer>
+			<integer>780</integer>
+		</dict>
+		<key>2575D911-C07F-419E-861A-E1B3FE1D621E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1410</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>27319EA3-FCBD-4554-AE89-752E0D015982</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1110</integer>
+			<key>ypos</key>
+			<integer>575</integer>
 		</dict>
 		<key>2F13E35C-FC80-434A-B381-76DFA64A2A77</key>
 		<dict>
 			<key>xpos</key>
-			<integer>550</integer>
+			<integer>545</integer>
 			<key>ypos</key>
-			<integer>75</integer>
+			<integer>55</integer>
 		</dict>
 		<key>31F2F914-97C3-428A-96DB-7E778D4026B5</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1490</integer>
+			<integer>1895</integer>
 			<key>ypos</key>
-			<integer>505</integer>
+			<integer>760</integer>
+		</dict>
+		<key>40CD2662-8E82-49F2-B3ED-1150AE6AC608</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1645</integer>
+			<key>ypos</key>
+			<integer>430</integer>
 		</dict>
 		<key>4AE313F5-F174-4A4D-B692-33C36491F47B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1050</integer>
+			<integer>1280</integer>
 			<key>ypos</key>
-			<integer>410</integer>
+			<integer>690</integer>
 		</dict>
 		<key>4D02EA08-B7E1-40A5-9525-6C739C3A0160</key>
 		<dict>
 			<key>xpos</key>
-			<integer>80</integer>
+			<integer>75</integer>
 			<key>ypos</key>
-			<integer>335</integer>
+			<integer>470</integer>
+		</dict>
+		<key>776B8439-6555-475B-9B11-CFBF98D81EE7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>2030</integer>
+			<key>ypos</key>
+			<integer>275</integer>
 		</dict>
 		<key>7C70DB83-389F-4764-B1AC-BE0982A5B2A8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>880</integer>
+			<integer>910</integer>
 			<key>ypos</key>
-			<integer>420</integer>
+			<integer>700</integer>
 		</dict>
 		<key>92ADFD10-DB43-49E4-8106-02E0E4DF6311</key>
 		<dict>
 			<key>xpos</key>
-			<integer>550</integer>
+			<integer>555</integer>
+			<key>ypos</key>
+			<integer>240</integer>
+		</dict>
+		<key>A61F508C-EED0-43E9-90CA-3EB27724F43E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1810</integer>
 			<key>ypos</key>
 			<integer>210</integer>
 		</dict>
 		<key>AB8DF3CD-C265-4905-ACCE-A74253E647B7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1335</integer>
+			<integer>1585</integer>
 			<key>ypos</key>
-			<integer>370</integer>
+			<integer>640</integer>
 		</dict>
 		<key>C9D877EC-9D4B-4BA0-9C9F-F4B26545E651</key>
 		<dict>
 			<key>xpos</key>
-			<integer>310</integer>
+			<integer>305</integer>
 			<key>ypos</key>
-			<integer>280</integer>
+			<integer>415</integer>
 		</dict>
 		<key>DC128010-8DD1-46C8-B2DD-0AA2D5C354A5</key>
 		<dict>
 			<key>xpos</key>
-			<integer>950</integer>
+			<integer>1015</integer>
 			<key>ypos</key>
-			<integer>210</integer>
+			<integer>240</integer>
 		</dict>
 		<key>ED81EE8A-A750-40F8-B8D6-62CBFBFDF311</key>
 		<dict>
 			<key>xpos</key>
-			<integer>795</integer>
+			<integer>785</integer>
 			<key>ypos</key>
-			<integer>450</integer>
+			<integer>585</integer>
 		</dict>
 		<key>FF07EB5E-8D5B-4271-A23D-DAD541C21ED2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1340</integer>
+			<integer>1590</integer>
 			<key>ypos</key>
-			<integer>440</integer>
+			<integer>715</integer>
 		</dict>
 	</dict>
 	<key>variables</key>

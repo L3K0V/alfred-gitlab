@@ -1,5 +1,5 @@
 {
-  "name": "alfred-gitlab",
+  "name": "alfred4-gitlab",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -40,7 +40,7 @@
     "url": "git+https://github.com/L3K0V/alfred-gitlab.git"
   },
   "bugs": {
-    "url": "https://github.com/L3K0V/alfred-gitlabissues"
+    "url": "https://github.com/L3K0V/alfred-gitlab/issues"
   },
   "homepage": "https://github.com/L3K0V/alfred-gitlab#readme"
 }

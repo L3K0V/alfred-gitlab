@@ -86,6 +86,7 @@ if (!alfy.input || alfy.input === "") {
 				variables: {
 					id: element.id,
 					name: element.name,
+					full_name: element.name_with_namespace,
 					repo: element.web_url,
 					default_branch: element.default_branch
 				},
