@@ -43,5 +43,8 @@
   "bugs": {
     "url": "https://github.com/L3K0V/alfred-gitlab/issues"
   },
-  "homepage": "https://github.com/L3K0V/alfred-gitlab#readme"
+  "homepage": "https://github.com/L3K0V/alfred-gitlab#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
