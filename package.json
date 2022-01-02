@@ -22,19 +22,19 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@gitbeaker/node": "^32.1.2",
-    "alfy": "^0.12.1"
+    "@gitbeaker/node": "~35.1.0",
+    "alfy": "~0.12.2"
   },
   "engines": {
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.24.1",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0",
-    "np": "^7.5.0"
+    "eslint": "~8.6.0",
+    "eslint-config-standard": "~16.0.3",
+    "eslint-plugin-import": "~2.25.3",
+    "eslint-plugin-node": "~11.1.0",
+    "eslint-plugin-promise": "~6.0.0",
+    "np": "~7.6.0"
   },
   "repository": {
     "type": "git",
