@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@gitbeaker/node": "~35.1.0",
+    "@gitbeaker/node": "~35.6.0",
     "alfy": "~0.12.2"
   },
   "engines": {
